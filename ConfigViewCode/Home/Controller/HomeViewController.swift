@@ -1,19 +1,22 @@
 //
-//  ViewController.swift
+//  HomeViewController.swift
 //  ConfigViewCode
 //
-//  Created by Premiersoft on 14/07/23.
+//  Created by Premiersoft on 17/07/23.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .red
+
         // Do any additional setup after loading the view.
     }
+    
+
 
 
 }
-
